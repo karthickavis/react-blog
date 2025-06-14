@@ -3,7 +3,7 @@ import Home from '../pages/Home';
 import About from '../pages/About';
 import Blog from '../pages/Blog';
 import BlogDetail from '../pages/Blogdetails'
-import Contact from '../pages/Contact';
+import Contact from '../pages/contact';
 
 export default function AppRoutes() {
   return (
